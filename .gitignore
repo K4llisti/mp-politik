@@ -1,0 +1,22 @@
+# Obsidian
+.obsidian/workspace
+.obsidian/workspace-mobile
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+.obsidian/core-plugins.json
+.obsidian/graph.json
+.obsidian/appearance.json
+
+# AI CLI / Agents
+.gemini/
+.cursor/
+.claude/
+
+# Scripts & temporary cache
+# (Vi ignorerar inte hela metadata_cache.json eftersom vi vill versionera cachen)
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
